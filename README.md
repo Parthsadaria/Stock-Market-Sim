@@ -38,6 +38,3 @@ Check out the [live preview](https://parthsadaria.github.io/Stock-Market-Sim/) o
 
 Hi, I'm Parth, the developer behind this Stock Market Simulator. I created this project to provide an educational and entertaining way to learn about the stock market. Feel free to reach out with any questions or feedback!
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
